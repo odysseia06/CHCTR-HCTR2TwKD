@@ -1,0 +1,6 @@
+# meson build directories
+benchmark/build*/
+
+# python
+__pycache__/
+*.pyc
